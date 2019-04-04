@@ -1,3 +1,5 @@
+**Important**: This is a fork which uses [Element Queries](https://github.com/marcj/css-element-queries) rather than media queries.
+
 # Core Grid
 
 > A CSS grid that streamlines layout development
